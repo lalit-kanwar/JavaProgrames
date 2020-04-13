@@ -4,6 +4,7 @@ class AllSubString {
 	public static void main(String args[]) {
 		String str1, str2;
 		int length;
+		System.out.println("sub string programe");
 		// Scanner in = new Scanner(System.in);
 		// System.out.println("Enter a string to find its sub-strings");
 		str1 = "Shore";
