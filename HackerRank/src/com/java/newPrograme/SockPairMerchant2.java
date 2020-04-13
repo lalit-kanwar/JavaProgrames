@@ -1,4 +1,4 @@
-package newPrograme;
+package com.java.newPrograme;
 
 import java.util.HashMap;
 import java.util.Map.Entry;

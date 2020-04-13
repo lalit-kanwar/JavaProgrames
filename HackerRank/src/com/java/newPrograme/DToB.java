@@ -1,4 +1,4 @@
-package newPrograme;
+package com.java.newPrograme;
 
 class DToB {
 	// function to convert decimal to binary

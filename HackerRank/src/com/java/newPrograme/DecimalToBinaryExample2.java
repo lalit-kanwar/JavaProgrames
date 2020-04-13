@@ -1,4 +1,4 @@
-package newPrograme;
+package com.java.newPrograme;
 
 public class DecimalToBinaryExample2 {
 	public static void toBinary(int decimal) {

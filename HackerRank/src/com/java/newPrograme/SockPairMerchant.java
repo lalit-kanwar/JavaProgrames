@@ -1,4 +1,4 @@
-package newPrograme;
+package com.java.newPrograme;
 
 public class SockPairMerchant {
 	public static void main(String[] args) {

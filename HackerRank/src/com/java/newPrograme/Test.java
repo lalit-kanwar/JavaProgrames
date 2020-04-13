@@ -1,4 +1,4 @@
-package newPrograme;
+package com.java.newPrograme;
 
 class Test {
 	public static void main(String[] args) {
