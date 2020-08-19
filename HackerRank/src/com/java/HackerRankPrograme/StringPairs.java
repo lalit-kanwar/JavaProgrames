@@ -1,4 +1,4 @@
-package com.java.H;
+package com.java.HackerRankPrograme;
 
 import java.util.ArrayList;
 import java.util.Iterator;

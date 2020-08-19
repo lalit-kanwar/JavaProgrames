@@ -1,4 +1,4 @@
-package com.java.H;
+package com.java.HackerRankPrograme;
 
 public class DuplicateTest {
 
