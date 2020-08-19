@@ -1,4 +1,4 @@
-package com.java.H1;
+package com.java.H;
 
 public class DuplicateTest {
 

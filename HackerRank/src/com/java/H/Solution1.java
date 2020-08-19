@@ -1,9 +1,9 @@
-package com.java.H1;
+package com.java.H;
 
 
 	import java.util.*;
 
-	public class Solution {
+	public class Solution1 {
 		static int n;
 	    static int[] solve(int[] grades){
 	    	 // Complete this function

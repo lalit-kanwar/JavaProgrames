@@ -1,4 +1,4 @@
-package com.java.H2;
+package com.java.H;
 
 import java.util.Scanner;
 

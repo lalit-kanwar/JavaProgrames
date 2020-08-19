@@ -1,4 +1,4 @@
-package com.java.H2;
+package com.java.H;
 
 public class DivideByTwoException extends Exception {
 
