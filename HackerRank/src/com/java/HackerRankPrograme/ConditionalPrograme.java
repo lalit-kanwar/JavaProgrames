@@ -8,44 +8,38 @@ public class ConditionalPrograme {
 		// TODO Auto-generated method stub
 
 		System.out.println("this is my programe given by punnu");
-		Scanner sc=new Scanner(System.in);
-		int i=sc.nextInt();
-	
-			if(i<=100){
-				if(i<=5){
-					if(i%2==0){
-						System.out.println("not weared");
-					}else{
-						System.out.println("weird");
-					}
-					}
-				
-				
-				
-				if((i>5)&&(i<=20)){
-					if(i%2==0){
-						System.out.println("weird");
-					}else{
-						System.out.println("weird");
-					}
-					
+		System.out.println("this is new line added by me to check update by git process");
+		Scanner sc = new Scanner(System.in);
+		int i = sc.nextInt();
+
+		if (i <= 100) {
+			if (i <= 5) {
+				if (i % 2 == 0) {
+					System.out.println("not weared");
+				} else {
+					System.out.println("weird");
 				}
-				
-				
-				
-				if(i>20){
-					if(i%2==0){
-						System.out.println("not wierd");
-					}else{
-						System.out.println("weird");
-					}
-				}
-				
 			}
-			
-		}	
-			
-		
-	
+
+			if ((i > 5) && (i <= 20)) {
+				if (i % 2 == 0) {
+					System.out.println("weird");
+				} else {
+					System.out.println("weird");
+				}
+
+			}
+
+			if (i > 20) {
+				if (i % 2 == 0) {
+					System.out.println("not wierd");
+				} else {
+					System.out.println("weird");
+				}
+			}
+
+		}
+
+	}
 
 }
