@@ -9,6 +9,7 @@ public class ConditionalPrograme {
 
 		System.out.println("this is my programe given by punnu");
 		System.out.println("this is new line added by me to check update by git process");
+		System.out.println("this line for pull request");
 		Scanner sc = new Scanner(System.in);
 		int i = sc.nextInt();
 
